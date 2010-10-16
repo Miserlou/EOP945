@@ -1,0 +1,5 @@
+EOP945 is an audio-masher in Python, written for Music Hack Day 2010
+
+This is a work in progress.
+
+Requires: Scipy, Python-audiolab
